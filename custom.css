@@ -1,0 +1,28 @@
+#contact{
+	background-color: black;
+    color: wheat;
+}
+input{
+	margin: 10px;
+}
+form {
+    border: 2px solid red;
+    margin: 10px;
+    padding: 22px;
+}
+#one{
+	margin-left: 50px;
+	background-color: black;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 200px;
+}
+#first{
+	background-color: red;
+	margin-left: 10px;
+}
+#second{
+	background-color: green;
+	margin-left: 10px;
+}
